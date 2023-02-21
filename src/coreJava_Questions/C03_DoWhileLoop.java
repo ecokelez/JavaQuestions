@@ -2,7 +2,7 @@ package coreJava_Questions;
 
 import java.util.Scanner;
 
-public class DoWhileLoop {
+public class C03_DoWhileLoop {
    /*
     Soru 4) Kullanicidan toplamak uzere pozitif sayilar isteyin,
     islemi bitirmek icin 0’a basmasini soyleyin.

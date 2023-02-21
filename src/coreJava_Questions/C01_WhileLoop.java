@@ -1,6 +1,6 @@
 package coreJava_Questions;
 
-public class WhileLoop {
+public class C01_WhileLoop {
       /*
         Soru 4 ) Kullanicidan baslangic ve bitis haflerini alin
         ve baslangic harfinden baslayip bitis harfinde biten
